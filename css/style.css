@@ -1,0 +1,151 @@
+/*CSS start here with top nav*/
+.top-nav{
+    background-color:#000000;
+    color:white;
+    
+}
+
+
+
+.top-nav i{
+    color:#FF9D42;
+    margin-right: 10px;
+}
+
+/*header menu start*/
+.navbar a {
+    color:white;
+    
+}
+.nav-item{
+    padding: 10px 10px;
+}
+.menu{
+    background-color: #FF9D42;
+}
+
+/*hero*/
+.hero{
+    background-image: url('/img/background6.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    
+
+    
+}
+.About{
+    border: 1px solid #ff9d42;
+}
+.Contact{
+    background-color: #FF9D42;
+}
+
+/*estimate*/
+.estimate-form{
+    margin-top: -100px;
+}
+.estimate-item{
+    width: 64%;
+    background-color: #5A56E8;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.estimate-btn{
+    background-color: #FF9D42;
+}
+/*choose-us*/
+
+.box{
+    width: 65%;
+
+}
+.fa-regular{
+    color:#5A56E8;
+}
+/*Most popular start here*/
+.most-popular{
+    background-color:#efeefd;
+}
+.most-popular h1{
+    color:#5A56E8;
+}
+/*about start here*/
+.about-us{
+    border: 1px solid;
+    border-color: #5A56E8;
+    border-radius: 10px;
+}
+/*pricing start here*/
+.pricing{
+    background-color: #efeefd;
+}
+
+.card-title{
+    color: #5A56E8;
+}
+.price{
+    background-color: #FF9D42;
+    color:white;
+}
+.price-main{
+    border: 1px solid;
+    border-color: #5A56E8;
+    border-radius: 10px;
+    background-color:#efeefd;
+    width: 20%;
+}
+.two{
+    background-color: #5a56e8;
+    color: white;
+}
+/*carousel start here*/
+.caro{
+    border: 1px solid;
+    border-color:#8d8aef;
+    border-radius: 10px;
+
+}
+.caro{
+    background-image: url("/img/Vector.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+/*meet-team*/
+.meet-team{
+    background-color: #efeefd;
+}
+.team{
+    background-color: #5A56E8;
+}
+/*footer*/
+.footer{
+    background-color: #5A56E8;
+    
+}
+
+.footer-menu ul li a{
+    text-decoration: none;
+    color:white;
+    font-family: popins;
+    font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.footer-menu ul li{
+    list-style: none;
+}
+.border-bottom{
+    width: 100%;
+   
+    color: rgb(34, 34, 34);
+
+}
+/*footer-bottom*/
+.fa-brands{
+    padding: 10px;
+}
+
+    
+
+
+
